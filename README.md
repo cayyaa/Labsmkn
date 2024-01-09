@@ -6,3 +6,4 @@ Setelah itu, akan diajukan beberapa pertanyaan mengenai informasimu. Silakan isi
 Sayangnya, platform ini menggunakan satu bahasa, yakni bahasa Inggris. Jadi, bagi kamu yang belum bisa bahasa inggris, usahakan untuk belajar kembali. Setelah itu, GitHub akan mengirimkan pesan melalui e-mail terdaftar yang berisikan verifikasi alamat e-mail.
 Lengkapi Akun Profil
 Setelah berhasil masuk ke akun GitHub, alangkah baiknya jika kamu mengisi profil kamu secara lengkap. Pada pojok kanan atas halaman kamu bisa klik tombol foto dan pilih menu setting. Lalu isi form dari nama hingga preferred spoken language agar memudahkan kita berkomunikasi ke depannya. Setelah itu simpan semua form yang telah diisi.
+![Uploading cica.JPG…]()
