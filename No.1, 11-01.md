@@ -11,7 +11,7 @@
    
     -Mencegah Perubahan Kode yang Bisa Merusak Kode Asli
    
-    -Sebagai Portofolio Bagi Developer
+    -Sebagai Portofolio Bagi Develope
    
     **manfaat github**
    
