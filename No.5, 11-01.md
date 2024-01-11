@@ -27,40 +27,42 @@
      Ketiga perintah tersebut berarti adalah menambahkan hasil pekerjaan ke stagging area, menyimpan perubahan pada repositori lokal, dan mengupload perubahan ke Github. Ketiga perintah ini kemungkinan adalah perintah git yang paling sering kita eksekusi.
 
     
-Inisialisasi Repositori:
+  1.  Inisialisasi Repositori:
 
-Membuat repositori Git baru:
+     Membuat repositori Git baru:
 
-![1](https://github.com/cayyaa/Labsmkn/assets/156055082/323a519a-7ee9-4082-9d57-389822153175)
+     ![1](https://github.com/cayyaa/Labsmkn/assets/156055082/323a519a-7ee9-4082-9d57-389822153175)
+     
+ 
+   2.  Menambahkan dan Mengonfirmasi Perubahan:
 
-Menambahkan dan Mengonfirmasi Perubahan:
+     Menambahkan file ke indeks (staging area):
 
-Menambahkan file ke indeks (staging area):
+     ![2](https://github.com/cayyaa/Labsmkn/assets/156055082/c4f9d8d5-af7e-46ee-8314-49bdbfdd87bb)
+     
+  
+     Menambahkan semua perubahan:
 
-![2](https://github.com/cayyaa/Labsmkn/assets/156055082/c4f9d8d5-af7e-46ee-8314-49bdbfdd87bb)
+     ![3](https://github.com/cayyaa/Labsmkn/assets/156055082/2c7d9fef-d2f0-40da-90a9-4e5010d83249)
+     
 
-Menambahkan semua perubahan:
+     Membuat commit dengan pesan:
 
-![3](https://github.com/cayyaa/Labsmkn/assets/156055082/2c7d9fef-d2f0-40da-90a9-4e5010d83249)
+     ![m](https://github.com/cayyaa/Labsmkn/assets/156055082/3e127fd9-ee9e-4a0a-89f7-a317d620c60a)
+     
 
-Membuat commit dengan pesan:
+   3. Melihat Status dan Riwayat:
+
+      Melihat status perubahan:
+      
+      ![4](https://github.com/cayyaa/Labsmkn/assets/156055082/75920d3c-5da8-441d-84dd-25ce7e7adc4c)
+
+
+      Melihat riwayat commit:
 
 
 
-
-Melihat Status dan Riwayat:
-
-Melihat status perubahan:
-lua
-Copy code
-git status
-Melihat riwayat commit:
-bash
-Copy code
-git log
-Cabang (Branch):
-
-Membuat cabang baru:
+      Membuat cabang baru:
 Copy code
 git branch nama_cabang
 Pindah ke cabang tertentu:
