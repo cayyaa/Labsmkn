@@ -31,17 +31,18 @@
 
     **jawab:**
    
-   Membuat Heading
-Heading atau judul di markdown dapat dibuat dengan tanda pagar #.
+     Membuat Heading
+    Heading atau judul di markdown dapat dibuat dengan tanda pagar #.
 
-![Github1](https://github.com/cayyaa/labsmkn/assets/156055082/a1ffc067-a49f-415e-8e9e-243ab01d276e)
+    ![Github1](https://github.com/cayyaa/labsmkn/assets/156055082/a1ffc067-a49f-415e-8e9e-243ab01d276e)
+ 
+    Maka akan menghasilkan:
 
-Maka akan menghasilkan:
-
-![Github2](https://github.com/cayyaa/labsmkn/assets/156055082/95775cd7-b7c4-4cb3-8893-16ac2b643795)
+    ![Github2](https://github.com/cayyaa/labsmkn/assets/156055082/95775cd7-b7c4-4cb3-8893-16ac2b643795)
 
 4. cara membuat repository
    
+    **jawab:**
    Membuat repo GitHub:
   -Buka Visual Studio, lalu pilih Buat proyek baru.
   -Dari menu Git , pilih Buat Repositori Git.
@@ -49,10 +50,11 @@ Maka akan menghasilkan:
   -Di bagian Buat repositori GitHub baru dari dialog Buat repositori Git, masukkan nama repositori yang ingin Anda buat.
   
 5.  menggunakan perintah gif melalui cmd
-   
+    **jawab:**
+    
      Membuat repository lokal dan menghubungkan dengan Github:
      
-![Github3](https://github.com/cayyaa/labsmkn/assets/156055082/a571ce93-fe18-40ce-9e68-0abbae229bd7)
+    ![Github3](https://github.com/cayyaa/labsmkn/assets/156055082/a571ce93-fe18-40ce-9e68-0abbae229bd7)
 
      1. Perintah baris pertama untuk memastikan kita berada pada folder project android kita
      2. Perintah baris kedua berguna untuk membuat repositori baru pada folder saat ini
@@ -62,9 +64,9 @@ Maka akan menghasilkan:
      6. Sedangkan baris perintah ke 7 digunakan untuk menghubungkan repositori lokal kita dengan repositori github
      7. Terakhir baris perintah ke 8 digunakan untuk meng-upload semua pekerjaan kita ke Github
      
-  Melakukan perubahan dan mengupload perubahan source code:
+    Melakukan perubahan dan mengupload perubahan source code:
   
-![Github4](https://github.com/cayyaa/labsmkn/assets/156055082/0bdbec48-d98d-4846-b81d-825313d398a5)
+   ![Github4](https://github.com/cayyaa/labsmkn/assets/156055082/0bdbec48-d98d-4846-b81d-825313d398a5)
 
 Ketiga perintah tersebut berarti adalah menambahkan hasil pekerjaan ke stagging area, menyimpan perubahan pada repositori lokal, dan mengupload perubahan ke Github. Ketiga perintah ini kemungkinan adalah perintah git yang paling sering kita eksekusi.
 
