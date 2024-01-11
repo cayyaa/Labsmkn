@@ -61,10 +61,15 @@
     -Perintah baris pertama untuk memastikan kita berada pada folder project android kita
     
     -Perintah baris kedua berguna untuk membuat repositori baru pada folder saat ini
+    
     -Sedangkan baris perintah ketiga untuk menambahkan semua file yang telah kita buat pada stagging area
+    
     -Perintah baris ke 4 dan 5 hanya dijakanlan jika ini adalah pertama kali kita melakukan operasi git (setelah instalasi git client), perintah tersebut digunakan untuk mengeset nama dan email yang diasosiasikan dengan pemakaian git
+    
     -Perintah baris ke 6 Untuk menyimpan perubahan di repository lokal
+    
     -Sedangkan baris perintah ke 7 digunakan untuk menghubungkan repositori lokal kita dengan repositori github
+    
     -Terakhir baris perintah ke 8 digunakan untuk meng-upload semua pekerjaan kita ke Github
      
       Melakukan perubahan dan mengupload perubahan source code:
