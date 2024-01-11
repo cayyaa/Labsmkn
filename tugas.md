@@ -66,9 +66,9 @@
      6. Sedangkan baris perintah ke 7 digunakan untuk menghubungkan repositori lokal kita dengan repositori github
      7. Terakhir baris perintah ke 8 digunakan untuk meng-upload semua pekerjaan kita ke Github
      
-    Melakukan perubahan dan mengupload perubahan source code:
+     Melakukan perubahan dan mengupload perubahan source code:
   
-   ![Github4](https://github.com/cayyaa/labsmkn/assets/156055082/0bdbec48-d98d-4846-b81d-825313d398a5)
+     ![Github4](https://github.com/cayyaa/labsmkn/assets/156055082/0bdbec48-d98d-4846-b81d-825313d398a5)
 
-Ketiga perintah tersebut berarti adalah menambahkan hasil pekerjaan ke stagging area, menyimpan perubahan pada repositori lokal, dan mengupload perubahan ke Github. Ketiga perintah ini kemungkinan adalah perintah git yang paling sering kita eksekusi.
+     Ketiga perintah tersebut berarti adalah menambahkan hasil pekerjaan ke stagging area, menyimpan perubahan pada repositori lokal, dan mengupload perubahan ke Github. Ketiga perintah ini kemungkinan adalah perintah git yang paling sering kita eksekusi.
 
