@@ -17,7 +17,7 @@
    
        Adanya GitHub memudahkan developer untuk berbagi file kode sekaligus bekerja sama dengan developer lain pada proyek yang bersifat open-source. GitHub juga berfungsi sebagai platform social networking tempat developer dapat berkolaborasi satu sama lain, membangun networking, dan menunjukkan karya mereka di publik.
    
-3. Cara membuat akun di github
+   2. Cara membuat akun di github
    
    **jawab:**
    
@@ -27,7 +27,9 @@
      Kemudian, Anda akan diminta memasukkan kode verifikasi yang dikirim ke email Anda. Jadi, cek inbox atau spam pada email Anda. Bila email GitHub belum masuk, Anda bisa klik Resend the code untuk mengirim ulang kodenya.
      Setelah memasukkan kode, Anda bisa melakukan proses personalisasi akun. Jika tidak ingin melakukannya, klik Skip, dan Anda akan diarahkan ke dashboard GitHub.
 
-5. cara menggunakan markdown
+3. cara menggunakan markdown
+
+    **jawab:**
    
    Membuat Heading
 Heading atau judul di markdown dapat dibuat dengan tanda pagar #.
