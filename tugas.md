@@ -1,13 +1,14 @@
 1. Apa pengertian, manfaat, fungsi github
    **jawab:** GitHub adalah salah satu platform wajib bagi developer karena menawarkan kemudahan untuk mengelola kode pada project. Platform ini cukup populer dengan lebih dari pengguna dari seluruh dunia.kalau Anda juga ingin menggunakan GitHub, penting untuk mempelajari dulu apa itu GitHub. Jadi, Anda lebih mudah mengelola kode project dan memanfaatkan semua fiturnya dengan baik.
-     **fungsi github**
+
+   **fungsi github**
     -Memudahkan Kolaborasi Pengerjaan Project
         Dengan distributed version control, semua developer atau anggota tim bisa mengakses dan mengelola kode di satu tempat. Misalnya, melakukan review code bersama, diskusi perbaikan bug, dan sebagainya.
     -Mencegah Perubahan Kode yang Bisa Merusak Kode Asli
     -Sebagai Portofolio Bagi Developer
     **manfaat github**
        Adanya GitHub memudahkan developer untuk berbagi file kode sekaligus bekerja sama dengan developer lain pada proyek yang bersifat open-source. GitHub juga berfungsi sebagai platform social networking tempat developer dapat berkolaborasi satu sama lain, membangun networking, dan menunjukkan karya mereka di publik.
-2. Cara membuat akun di github 
+3. Cara membuat akun di github 
    **jawab:**
      Pertama, kunjungi website GitHub di www.github.com, lalu klik Sign Up untuk membuat akun baru
      Kemudian, masukkan informasi yang dibutuhkan, seperti email, password, hingga username.
@@ -15,7 +16,7 @@
      Kemudian, Anda akan diminta memasukkan kode verifikasi yang dikirim ke email Anda. Jadi, cek inbox atau spam pada email Anda. Bila email GitHub belum masuk, Anda bisa klik Resend the code untuk mengirim ulang kodenya.
      Setelah memasukkan kode, Anda bisa melakukan proses personalisasi akun. Jika tidak ingin melakukannya, klik Skip, dan Anda akan diarahkan ke dashboard GitHub.
 
-3. cara menggunakan markdown 
+4. cara menggunakan markdown 
    Membuat Heading
 Heading atau judul di markdown dapat dibuat dengan tanda pagar #.
 
