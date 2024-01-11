@@ -31,15 +31,15 @@
 
      Membuat repositori Git baru:
 
-     ![1](https://github.com/cayyaa/Labsmkn/assets/156055082/323a519a-7ee9-4082-9d57-389822153175)
-     
+     ![1](https://github.com/cayyaa/Labsmkn/assets/156055082/14690a94-70da-40d7-9037-a9b3d0a63b3d)
+
  
    2.  Menambahkan dan Mengonfirmasi Perubahan:
 
      Menambahkan file ke indeks (staging area):
 
-     ![2](https://github.com/cayyaa/Labsmkn/assets/156055082/c4f9d8d5-af7e-46ee-8314-49bdbfdd87bb)
-     
+     ![2](https://github.com/cayyaa/Labsmkn/assets/156055082/2de2efe4-764d-4c8c-894d-82127afcccee)
+
   
      Menambahkan semua perubahan:
 
@@ -48,8 +48,8 @@
 
      Membuat commit dengan pesan:
 
-     ![m](https://github.com/cayyaa/Labsmkn/assets/156055082/3e127fd9-ee9e-4a0a-89f7-a317d620c60a)
-     
+     ![3](https://github.com/cayyaa/Labsmkn/assets/156055082/510727d9-02e4-440c-a45f-04a97257cd69)
+
 
    3. Melihat Status dan Riwayat:
 
