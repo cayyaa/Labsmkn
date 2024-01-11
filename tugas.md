@@ -1,4 +1,5 @@
 1. Apa pengertian, manfaat, fungsi github
+   
    **jawab:**
    
    GitHub adalah salah satu platform wajib bagi developer karena menawarkan kemudahan untuk mengelola kode pada project. Platform ini cukup populer dengan lebih dari pengguna dari seluruh dunia.kalau Anda juga ingin menggunakan GitHub, penting untuk mempelajari dulu apa itu GitHub. Jadi, Anda lebih mudah mengelola kode project dan memanfaatkan semua fiturnya dengan baik.
@@ -20,7 +21,7 @@
    
    **jawab:**
    
-     Pertama, kunjungi website GitHub di www.github.com, lalu klik Sign Up untuk membuat akun baru
+     Pertama, kunjungi website GitHub, lalu klik Sign Up untuk membuat akun baru
      Kemudian, masukkan informasi yang dibutuhkan, seperti email, password, hingga username.
      Selanjutnya, Anda harus mengerjakan puzzle singkat atau  sebagai langkah verifikasi. Lalu, klik Create Account.
      Kemudian, Anda akan diminta memasukkan kode verifikasi yang dikirim ke email Anda. Jadi, cek inbox atau spam pada email Anda. Bila email GitHub belum masuk, Anda bisa klik Resend the code untuk mengirim ulang kodenya.
