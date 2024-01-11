@@ -17,7 +17,7 @@
    
        Adanya GitHub memudahkan developer untuk berbagi file kode sekaligus bekerja sama dengan developer lain pada proyek yang bersifat open-source. GitHub juga berfungsi sebagai platform social networking tempat developer dapat berkolaborasi satu sama lain, membangun networking, dan menunjukkan karya mereka di publik.
    
-   2. Cara membuat akun di github
+2. Cara membuat akun di github
    
    **jawab:**
    
