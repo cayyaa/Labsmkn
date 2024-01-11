@@ -43,6 +43,7 @@
 4. cara membuat repository
    
     **jawab:**
+   
    Membuat repo GitHub:
   -Buka Visual Studio, lalu pilih Buat proyek baru.
   -Dari menu Git , pilih Buat Repositori Git.
@@ -50,6 +51,7 @@
   -Di bagian Buat repositori GitHub baru dari dialog Buat repositori Git, masukkan nama repositori yang ingin Anda buat.
   
 5.  menggunakan perintah gif melalui cmd
+   
     **jawab:**
     
      Membuat repository lokal dan menghubungkan dengan Github:
