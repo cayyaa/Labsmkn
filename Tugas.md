@@ -59,6 +59,7 @@
     ![Github3](https://github.com/cayyaa/labsmkn/assets/156055082/a571ce93-fe18-40ce-9e68-0abbae229bd7)
 
     -Perintah baris pertama untuk memastikan kita berada pada folder project android kita
+    
     -Perintah baris kedua berguna untuk membuat repositori baru pada folder saat ini
     -Sedangkan baris perintah ketiga untuk menambahkan semua file yang telah kita buat pada stagging area
     -Perintah baris ke 4 dan 5 hanya dijakanlan jika ini adalah pertama kali kita melakukan operasi git (setelah instalasi git client), perintah tersebut digunakan untuk mengeset nama dan email yang diasosiasikan dengan pemakaian git
