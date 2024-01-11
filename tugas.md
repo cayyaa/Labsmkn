@@ -1,6 +1,6 @@
 1. Apa pengertian, manfaat, fungsi github
-   
    **jawab:**
+   
    GitHub adalah salah satu platform wajib bagi developer karena menawarkan kemudahan untuk mengelola kode pada project. Platform ini cukup populer dengan lebih dari pengguna dari seluruh dunia.kalau Anda juga ingin menggunakan GitHub, penting untuk mempelajari dulu apa itu GitHub. Jadi, Anda lebih mudah mengelola kode project dan memanfaatkan semua fiturnya dengan baik.
 
    **fungsi github**
